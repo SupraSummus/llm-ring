@@ -93,4 +93,4 @@ def write_file(file_path, content):
 
 
 if __name__ == "__main__":
-    iterate_parallel_replacement('examples', 3)
+    iterate_parallel_replacement('examples', 10)
